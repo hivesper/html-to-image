@@ -19,6 +19,18 @@
 <a href="https://github.com/bubkoo/html-to-image/pulls"><img alt="PRs Welcome" src="https://img.shields.io/badge/PRs-Welcome-brightgreen.svg?style=for-the-badge"></a>
 </p>
 
+## How to work with this fork and what we need to do specifically?
+
+- After making changes, makes sure to build by running:
+  - `npm run build`
+- And commit these changes
+
+
+## How does this fork differ from the original repository?
+
+- We removed `es` from `.gitignore` to be able to commit it
+- And added the changes purposed to fix font issue from this PR: https://github.com/bubkoo/html-to-image/pull/514
+
 ## Install
 
 ```shell
