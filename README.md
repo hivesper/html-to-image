@@ -21,7 +21,7 @@
 
 ## How to work with this fork and what we need to do specifically?
 
-- After making changes, makes sure to build by running:
+- After making changes, make sure to build by running:
   - `npm run build`
 - And commit these changes
 
